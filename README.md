@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/khushi101dev/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khushi101dev/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/khushi101dev/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [3731-find-missing-elements](https://github.com/khushi101dev/DSA/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/khushi101dev/DSA/tree/master/0015-3sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/khushi101dev/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [3731-find-missing-elements](https://github.com/khushi101dev/DSA/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/khushi101dev/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/khushi101dev/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
