@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/khushi101dev/DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/khushi101dev/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khushi101dev/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khushi101dev/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -11,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/khushi101dev/DSA/tree/master/0001-two-sum) |
 | [3731-find-missing-elements](https://github.com/khushi101dev/DSA/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
