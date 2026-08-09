@@ -12,7 +12,7 @@ public:
             int first = nums[i];
             int second = tar - first ;
 
-            if(m.find(second) != m.end()){
+            if(m.find(second) != m.end()){ // time complexity 0(1)
                  ans.push_back(i);
                  ans.push_back(m[second]);
                 break ;
