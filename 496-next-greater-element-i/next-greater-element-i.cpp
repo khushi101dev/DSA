@@ -9,7 +9,7 @@ public:
         int n2 = nums2.size();
 
         for( int i = n2 - 1 ; i >=0 ; i--){
-            while(!s.empty() && s.top() < nums2[i]){
+            while(!s.empty() && s.top() <= nums2[i]){
                 s.pop();
             }
             if(s.empty()){ 
