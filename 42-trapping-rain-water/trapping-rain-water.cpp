@@ -1,5 +1,9 @@
 class Solution {
 public:
+// Prefix Array as we have used two auxilary arrays to store our Lmax and Rmax
+// Space Complexity is O(N) 
+// Time complexity is O(N) 
+
     int trap(vector<int>& ht) {
         int water = 0 ;
         int n  = ht.size();
