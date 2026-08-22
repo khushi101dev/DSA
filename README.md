@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/khushi101dev/DSA/tree/master/1510-stone-game-iv) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/khushi101dev/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/khushi101dev/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/khushi101dev/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Enumeration
 |  |
 | ------- |
