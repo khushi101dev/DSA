@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/khushi101dev/DSA/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/khushi101dev/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0901-online-stock-span](https://github.com/khushi101dev/DSA/tree/master/0901-online-stock-span) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/khushi101dev/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/khushi101dev/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0901-online-stock-span](https://github.com/khushi101dev/DSA/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/khushi101dev/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/khushi101dev/DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
