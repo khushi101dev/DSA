@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/khushi101dev/DSA/tree/master/0001-two-sum) |
+| [0387-first-unique-character-in-a-string](https://github.com/khushi101dev/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/khushi101dev/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/khushi101dev/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/khushi101dev/DSA/tree/master/3731-find-missing-elements) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/khushi101dev/DSA/tree/master/0020-valid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/khushi101dev/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/khushi101dev/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -135,4 +137,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/khushi101dev/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/khushi101dev/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/khushi101dev/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/khushi101dev/DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
