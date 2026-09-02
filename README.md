@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/khushi101dev/DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/khushi101dev/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khushi101dev/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/khushi101dev/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/khushi101dev/DSA/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/khushi101dev/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/khushi101dev/DSA/tree/master/0239-sliding-window-maximum) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/khushi101dev/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/khushi101dev/DSA/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/khushi101dev/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/khushi101dev/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
