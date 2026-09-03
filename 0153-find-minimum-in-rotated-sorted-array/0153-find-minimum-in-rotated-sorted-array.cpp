@@ -6,15 +6,16 @@ public:
         int low = 0, high = n-1;
 
         while(low <= high){
-            int mid = (low + high)/2;
+            int mid = low + (high - low)/2;
 
             if(nums[low] <= nums[mid]){ //left half sorted
                 ans = min(ans,nums[low]);
                 low = mid+1;
             }
             else{ // right half sorted
-                high = mid-1;
+                
                 ans = min(ans, nums[mid]);
+                high = mid-1;
             
             }
         }
