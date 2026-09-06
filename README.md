@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/khushi101dev/DSA/tree/master/0020-valid-parentheses) |
+| [0115-distinct-subsequences](https://github.com/khushi101dev/DSA/tree/master/0115-distinct-subsequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/khushi101dev/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/khushi101dev/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1927-sum-game](https://github.com/khushi101dev/DSA/tree/master/1927-sum-game) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/khushi101dev/DSA/tree/master/0115-distinct-subsequences) |
 | [1510-stone-game-iv](https://github.com/khushi101dev/DSA/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
