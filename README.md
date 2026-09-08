@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/khushi101dev/DSA/tree/master/0239-sliding-window-maximum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khushi101dev/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/khushi101dev/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/khushi101dev/DSA/tree/master/0875-koko-eating-bananas) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/khushi101dev/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2951-find-the-peaks](https://github.com/khushi101dev/DSA/tree/master/2951-find-the-peaks) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/khushi101dev/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/khushi101dev/DSA/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/khushi101dev/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/khushi101dev/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/khushi101dev/DSA/tree/master/0875-koko-eating-bananas) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/khushi101dev/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Sliding Window
 |  |
