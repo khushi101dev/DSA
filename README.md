@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/khushi101dev/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/khushi101dev/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/khushi101dev/DSA/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/khushi101dev/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/khushi101dev/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/khushi101dev/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2187-minimum-time-to-complete-trips](https://github.com/khushi101dev/DSA/tree/master/2187-minimum-time-to-complete-trips) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/khushi101dev/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/khushi101dev/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/khushi101dev/DSA/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/khushi101dev/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/khushi101dev/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/khushi101dev/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2187-minimum-time-to-complete-trips](https://github.com/khushi101dev/DSA/tree/master/2187-minimum-time-to-complete-trips) |
