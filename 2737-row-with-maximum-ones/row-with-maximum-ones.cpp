@@ -7,7 +7,7 @@ public:
         int max_count = -1;
         int index = 0;
 
-        vector<int> ans {index,max_count};
+        
 
         for(int i =0; i < m ; i++){
             int countrow = 0;
@@ -19,6 +19,6 @@ public:
                 index = i ;
             }
         }
-        return ans = {index,max_count};
+        return {index,max_count};
     }
 };
