@@ -4,17 +4,17 @@ public:
         stack<int> st;
         string result;
 
-        for(char & ch : s){
-            if(ch == '('){
+        for(int i =0; i < s.length();i++){
+            if(s[i] == '('){
                 st.push(result.length());
             }
-            else if(ch == ')'){
+            else if(s[i] == ')'){
                 int l = st.top();
                 st.pop();
                 reverse(result.begin()+l , result.end());
             }
             else{
-                result.push_back(ch);
+                result.push_back(s[i]);
             }
         }
         return result ;
